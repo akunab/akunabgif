@@ -5,10 +5,12 @@ A:\dev\__\9.akunabgif\arts\d22d2f28e1ec2ce2a1e9839d68126314.gif
 A:\dev\__\9.akunabgif\arts\handdraw.gif
 A:\dev\__\9.akunabgif\japanese\2c018b4fed62c9cba6d04395a319efa0.gif
 A:\dev\__\9.akunabgif\japanese\369375cc247232369e6dffe553758570.gif
+A:\dev\__\9.akunabgif\japanese\9d003eb728963414422887920ce98aee.gif
 A:\dev\__\9.akunabgif\japanese\bc978a3136d03ea7a7ac1ed379cff7f0.gif
 A:\dev\__\9.akunabgif\paintedskin\4c1e63c6a54d77050c85142a2f44ddd6.gif
 A:\dev\__\9.akunabgif\paintedskin\e892a4b3a6a6af1ea415605167aa2a6b.gif
 A:\dev\__\9.akunabgif\quanenzhi\4285b78fa5f1d86d44bd1c114652a042.gif
+A:\dev\__\9.akunabgif\quanenzhi\a17d779706b7769dde9987bf50da7984.gif
 A:\dev\__\9.akunabgif\sis\04bafdff4932ca45938a7c2b08473906.gif
 A:\dev\__\9.akunabgif\sis\20fedc1395ccce49f1aca2ece48c252e.gif
 A:\dev\__\9.akunabgif\sis\bb3.gif
